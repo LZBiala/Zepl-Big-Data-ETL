@@ -70,3 +70,4 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 * Copy your SQL queries into `.sql` files and upload to GitHub.
 
 * **Important:** Do not upload notebooks that contain your RDS password and endpoint. Be sure to delete them before making your notebook public!
+
